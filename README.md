@@ -1,2 +1,2 @@
 # Creality-K1-Max-Klipper
-Using Guilouz helper script for K1 series 
+Using Guilouz helper script for K1 series https://guilouz.github.io/Creality-Helper-Script-Wiki/
